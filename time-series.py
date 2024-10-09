@@ -16,3 +16,5 @@ import tensorflow as tf
 mpl.rcParams["figure.figsize"] = (8, 6)
 # desativa a exibição da grade (grid) nos eixos dos gráficos.
 mpl.rcParams["axes.grid"] = False
+
+print("Teste")
