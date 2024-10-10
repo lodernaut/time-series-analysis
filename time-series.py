@@ -17,4 +17,5 @@ mpl.rcParams["figure.figsize"] = (8, 6)
 # desativa a exibição da grade (grid) nos eixos dos gráficos.
 mpl.rcParams["axes.grid"] = False
 
-print("Teste")
+# previsões por hora, subamostrar os dados de intervalos de 10 minutos para intervalos de uma hora:
+df = pd.read_csv("csv_path")

@@ -3,3 +3,7 @@ venv/
 venv/lib/python3.11/site-packages/tensorflow/libtensorflow_framework.so.2
 
 venv/lib/python3.11/site-packages/tensorflow/libtensorflow_cc.so.2
+
+test.py
+
+jena_climate_2009_2016.csv
