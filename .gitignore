@@ -2,6 +2,7 @@ venv/
 venv/*
 venv
 test.py
+test.txt
 jena_climate_2009_2016.csv
 
 # Django #
